@@ -1,0 +1,135 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{caption}
+\usepackage{multirow} 
+\usepackage[margin=2cm]{geometry}
+\usepackage{polski}
+\begin{document}
+
+\section*{Ćw1 odwzorowanie tabelki}
+\begin{table}[h]
+\centering\caption{Przykładowy system dacyzyjny (U,A,d), modelujący problem diagnozy medycznej, której \newline efektem jest decyzja o wykonaniu lub nie wykonaniu operacju wycięcia wyrostka robaczkowego,\newline U= $\{u1,u2,...,u10\}$ A= $\{a1,a2\}$, d $\in$ D=$\{TAK,NIE\}$}
+\begin{tabular}{c|c c c}
+\hline
+\hline
+Pacjent & Ból brzucha & Temperatura ciała & Operacja\\
+\hline	
+u1 & mocny  & wysoka  & tak\\
+u2 & średni & wysoka  & tak\\
+u2 & mocny  & średnia & tak\\
+u4 & mocny  & niska   & tak\\
+u5 & średni & średnia & tak\\
+u6 & średni & średnia & nie\\
+u7 & mały   & wysoka  & nie\\
+u8 & mały   & niska   & nie\\
+u9 & mocny  & niska   & nie\\
+u10 & mały  & średnia & nie\\
+\hline
+\hline
+\end{tabular}	
+\end{table}
+
+\section*{Ćw2 bramki logiczne}
+
+\begin{table}[h]
+\centering\caption*{Bramka NOT}
+\begin{tabular}{|c|c|}
+\hline
+Wejście & Wyjście \\
+\hline
+0 & 1\\
+\hline
+1 & 0\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption*{Bramka AND}
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & Wyjście\\
+\hline
+0 & 1 & 0\\
+\hline
+1 & 0 & 0\\
+\hline
+1 & 1 & 1\\
+\hline
+0 & 0 & 0\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption*{Bramka NAND}
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & Wyjście\\
+\hline
+0 & 1 & 1\\
+\hline
+1 & 0 & 1\\
+\hline
+1 & 1 & 0\\
+\hline
+0 & 0 & 1\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption*{Bramka OR}
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & Wyjście\\
+\hline
+0 & 1 & 1\\
+\hline
+1 & 0 & 1\\
+\hline
+1 & 1 & 1\\
+\hline
+0 & 0 & 0\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption*{Bramka NOR}
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & Wyjście\\
+\hline
+0 & 1 & 0\\
+\hline
+1 & 0 & 0\\
+\hline
+1 & 1 & 0\\
+\hline
+0 & 0 & 1\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption*{Bramka EXNOR}
+\begin{tabular}{|c|c|c|}
+\hline
+A & B & Wyjście\\
+\hline
+0 & 1 & 1\\
+\hline
+1 & 0 & 1\\
+\hline
+1 & 1 & 0\\
+\hline
+0 & 0 & 0\\
+\hline
+\end{tabular}	
+\end{table}
+\end{document}
+

@@ -1,0 +1,56 @@
+\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{caption}
+\usepackage{multirow} 
+\begin{document}
+
+\begin{center}
+
+\begin{table}
+\begin{tabular}{ r r r }
+cell1 & cell2 & cell3 \\
+cell4 & cell5 & cell6 \\
+cell7 & cell8 & cell9
+\end{tabular}
+\end{table}
+\begin{table}[h]
+\centering\caption{Tu wstawiamy opis Tabeli}
+\begin{tabular}{c c c}
+cell1 & cell2 & cell3\\
+cell4 & cell5 & cell6\\
+cell5 & cell6 & cell7
+\end{tabular}
+\end{table}
+
+\end{center}
+
+\begin{table}[h]
+\centering\caption{Tu wstawiamy opis Tabeli}
+\begin{tabular}{|r|r|r|}
+\hline
+cell1 & cell2 & cell3\\
+\hline
+cell4 & cell5 & cell6\\
+\hline
+cell5 & cell6 & cell7\\
+\hline
+\end{tabular}	
+\end{table}
+
+\begin{table}[h]
+\centering\caption{Tu wstawiamy opis Tabeli}
+\begin{tabular}{|c|c|c|}
+\hline
+cell1 & cell2 & cell3\\
+\hline
+\multirow{2}{4em}{Multiple row} & cell4 & cell5\\
+& cell6 & cell7 \\
+\hline
+cell13 & cell8 & cell9 \\
+\hline
+\multicolumn{2}{|c|}{Multi-column} & cell12\\
+\hline
+\end{tabular}
+\end{table}
+\end{document}
+
