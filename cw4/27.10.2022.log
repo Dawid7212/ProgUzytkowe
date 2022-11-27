@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.15)  27 NOV 2022 13:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.10.15)  27 NOV 2022 13:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**./cwiczenia.tex
-(cwiczenia.tex
+**./27.10.2022.tex
+(27.10.2022.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-07-04>
 (C:\Users\player1\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -151,8 +151,8 @@ dftex.def
 File: l3backend-pdftex.def 2022-07-01 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count274
 \l__pdf_internal_box=\box53
-) (cwiczenia.aux)
-\openout1 = `cwiczenia.aux'.
+) (27.10.2022.aux)
+\openout1 = `27.10.2022.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
@@ -214,38 +214,116 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
 (C:\Users\player1\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
 
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 49.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 21--23
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 28--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
+
+ []
 
 [1
 
 {C:/Users/player1/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(cwiczenia.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 142--144
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--148
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--159
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+[2] (27.10.2022.aux) ) 
 Here is how much of TeX's memory you used:
- 2706 strings out of 478338
- 39929 string characters out of 2835755
- 346510 words of memory out of 3000000
- 21144 multiletter control sequences out of 15000+600000
- 476206 words of font info for 49 fonts, out of 8000000 for 9000
+ 2699 strings out of 478338
+ 39870 string characters out of 2835755
+ 357513 words of memory out of 3000000
+ 21139 multiletter control sequences out of 15000+600000
+ 474676 words of font info for 47 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,62p,227b,123s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\player1\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi600\ecrm1095.pk><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/amsfonts/cm/cmex10.pfb><C:/Users/player1/AppData/Local/Programs/Mi
-KTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/player1/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/player1/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/pl
-ayer1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
-:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r6.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmr8.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on cwiczenia.pdf (1 page, 104412 bytes).
+ 55i,7n,62p,228b,123s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ <C:\Users\player1\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi600\ecrm1095.pk><C:/Users/player1/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/player1/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/player1/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/player1
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Use
+rs/player1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmr8.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Users/player1/AppData/Local/Programs/MiKTeX
+/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on 27.10.2022.pdf (2 pages, 101995 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
+ 60 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
